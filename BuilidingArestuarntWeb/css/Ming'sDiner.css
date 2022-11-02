@@ -1,0 +1,59 @@
+.container-fluid{
+    background-color:ghostwhite;
+  }
+  .carousel-inner{
+    border-left:200px solid silver;
+    border-right:200px solid silver;
+    
+  }
+  h5{
+      
+      font-weight: bold;
+  }
+
+  h1{
+      padding-left: 10px;
+  }
+  footer{
+    background-color: rgb(43, 42, 42);
+    color: white;
+    padding: 10px;
+  }
+  .menu1{
+    width:66%;
+    display:inline-block;
+  }
+  .menu2{
+    width:33%;
+    display:inline-block;
+  }
+  #lis{
+    list-style:none;
+  }
+  a{
+    color: whitesmoke;
+  }
+  p{
+    text-align: justify;
+  }
+  .s1{
+    width:60%;
+    display:inline-block;
+    padding: 20px;
+    
+  }
+  .s2{
+    width:30%;
+    display:inline-block;
+    padding-bottom: 20px;
+    
+  }
+  #hd{
+    text-align: center;
+  }
+  .cf{
+    padding: 30px;
+  }
+  input, textarea {
+    width:100%;
+  }
